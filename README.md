@@ -17,3 +17,6 @@ My collection of useful links on microservices topic.
 * https://graphiteapp.org/
 * https://www.elastic.co/products/logstash
 * https://newrelic.com/
+
+## Authentication and Authorization 
+* https://www.shibboleth.net
