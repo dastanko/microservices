@@ -11,6 +11,7 @@ My collection of useful links on microservices topic.
 ## Testing
 * [mountebank](http://www.mbtest.org/) - is open source tool to provide cross-platform, multi-protocol test doubles over the wire. 
 * [pact](https://docs.pact.io) - is a tool for writing consumer driven contract tests.
+* [hoverfly](https://hoverfly.io/) - service virtualiztion tool.
 
 ## Monitoring
 * https://www.nagios.com/
